@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cryptomonedas/static/css/main.16142516.css",
-    "main.js": "/cryptomonedas/static/js/main.ebee5db5.js",
-    "index.html": "/cryptomonedas/index.html",
-    "main.16142516.css.map": "/cryptomonedas/static/css/main.16142516.css.map",
-    "main.ebee5db5.js.map": "/cryptomonedas/static/js/main.ebee5db5.js.map"
+    "main.css": "/preciocrypto/static/css/main.16142516.css",
+    "main.js": "/preciocrypto/static/js/main.ebee5db5.js",
+    "index.html": "/preciocrypto/index.html",
+    "main.16142516.css.map": "/preciocrypto/static/css/main.16142516.css.map",
+    "main.ebee5db5.js.map": "/preciocrypto/static/js/main.ebee5db5.js.map"
   },
   "entrypoints": [
     "static/css/main.16142516.css",
